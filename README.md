@@ -1,6 +1,7 @@
 # filter-stock-volume
 
 Project ini digunakan untuk memfilter saham yang memiliki kenaikan volume yang signifikan. DISCLAIMER is ON!
+Sumber data : https://www.investing.com/
 
 Run program : <br />
 - Python 2 <br />
