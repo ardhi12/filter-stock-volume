@@ -2,9 +2,9 @@
 
 Project ini digunakan untuk memfilter saham yang memiliki kenaikan volume yang signifikan. DISCLAIMER is ON!
 
-Run program :
-Python 2
+Run program : <br />
+- Python 2 <br />
 python filter-volume.py
 
-Python 3 
+- Python 3 <br />
 python3 filter-volume.py
